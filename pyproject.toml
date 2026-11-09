@@ -8,11 +8,10 @@ version = "0.1.0"
 description = "Safe, zero-dependency MCP server for SQLite: explore and query local databases read-only by default."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = "MIT"
 authors = [{ name = "Deependra" }]
 keywords = ["mcp", "model-context-protocol", "sqlite", "database", "claude", "read-only"]
 classifiers = [
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Topic :: Database",
     "Topic :: Software Development :: Libraries",
